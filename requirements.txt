@@ -1,0 +1,23 @@
+# Core libraries
+numpy>=1.24.0
+scipy>=1.11.0
+pillow>=10.0.0
+
+# Audio processing
+librosa>=0.10.0
+
+# Video processing
+opencv-python>=4.8.0
+moviepy>=1.0.3
+mediapipe>=0.10.0
+
+# Deep learning
+torch>=2.0.0
+transformers>=4.30.0
+
+# Utilities
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# For development
+pytest>=7.3.1
