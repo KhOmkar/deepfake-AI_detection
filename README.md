@@ -159,11 +159,11 @@ Use responsibly. Do not upload sensitive content without consent. Predictions ar
 
 ## Contributors / Group Details
 
-- <Name Omkar Khilare>
-- <Name Sachin Bhabad>
-- <Name Prajwal Jadhav>
-- <Name Krishna Gite>
-- <Name Shravan Mole>
+- <Name a>Omkar Khilare
+- <Name a>Sachin Bhabad
+- <Name a>Prajwal Jadhav
+- <Name a>Krishna Gite
+- <Name a>Shravan Mole
 
 
 
